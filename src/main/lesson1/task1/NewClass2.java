@@ -5,6 +5,6 @@ public class NewClass2 {
         double radius = 2;
         double pi = 3.14;
         double area = radius * radius * pi;
-        System.out.println("Result" + " " + area);
+        System.out.println("Result:" + " " + area);
     }
 }
